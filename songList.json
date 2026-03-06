@@ -1,72 +1,121 @@
 [
-    {
-        "id": 1,
-        "anime": "0-saiji Start Dash Monogatari Season 2 - Ending 1",
-        "name": "\"Beyond the Trajectory\" by Chata",
-        "video": "https://eudist.animemusicquiz.com/5u2mhk.webm",
-        "mp3": null
-    },
-    {
-        "id": 2,
-        "anime": "1-punkan dake Furete mo Ii yo... Share House no Himitsu Rule. - Ending 1",
-        "name": "\"Session Sadame Night\" by Dai Takanashi",
-        "video": "https://eudist.animemusicquiz.com/f23gq2.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ne5vos.mp3"
-    },
-    {
-        "id": 3,
-        "anime": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. - Ending 1",
-        "name": "\"Treasure Chest\" by Yuki Tanaka",
-        "video": "https://eudist.animemusicquiz.com/agsvoz.webm",
-        "mp3": "https://eudist.animemusicquiz.com/i3vp9q.mp3"
-    },
-    {
-        "id": 4,
-        "anime": "Akuyaku Reijou Tensei Ojisan - Ending 1",
-        "name": "\"Matsuken Samba II\" by Kazuhiko Inoue, M・A・O",
-        "video": "https://eudist.animemusicquiz.com/e8q47f.webm",
-        "mp3": "https://eudist.animemusicquiz.com/dje0hr.mp3"
-    },
-    {
-        "id": 5,
-        "anime": "Amagami-san Chi no Enmusubi - Ending 2",
-        "name": "\"Kamisama no Iu Toori!\" by ≠ME",
-        "video": "https://eudist.animemusicquiz.com/p4etz1.webm",
-        "mp3": "https://eudist.animemusicquiz.com/wz8z3p.mp3"
-    },
-    {
-        "id": 6,
-        "anime": "Ameku Takao no Suiri Karte - Ending 1",
-        "name": "\"will be fine\" by Gospellers feat. Anly",
-        "video": "https://eudist.animemusicquiz.com/0spf2m.webm",
-        "mp3": "https://eudist.animemusicquiz.com/iagxs7.mp3"
-    },
-    {
-        "id": 7,
-        "anime": "Ao no Exorcist: Yosuga-hen - Ending 1",
-        "name": "\"Overlap\" by Shiyui",
-        "video": "https://eudist.animemusicquiz.com/3z1d8i.webm",
-        "mp3": "https://eudist.animemusicquiz.com/162vdv.mp3"
-    },
-    {
-        "id": 8,
-        "anime": "Ao no Hako - Ending 2",
-        "name": "\"Contrast\" by TOMOO",
-        "video": "https://eudist.animemusicquiz.com/qmcqk3.webm",
-        "mp3": "https://eudist.animemusicquiz.com/l2sgqo.mp3"
-    },
-    {
-        "id": 9,
-        "anime": "Ao no Miburo - Ending 2",
-        "name": "\"Fragment\" by osage",
-        "video": "https://eudist.animemusicquiz.com/8b8iva.webm",
-        "mp3": "https://eudist.animemusicquiz.com/0yt4lm.mp3"
-    },
-    {
-        "id": 10,
-        "anime": "Arafou Otoko no Isekai Tsuuhan - Ending 1",
-        "name": "\"Aicraft\" by Kiminone",
-        "video": "https://eudist.animemusicquiz.com/ohlrpc.webm",
-        "mp3": "https://eudist.animemusicquiz.com/74jbjn.mp3"
-    }
+  {
+    "id": 1,
+    "anime": "Akuma-kun: Youkoso Akuma Land e!! - Opening 1",
+    "name": "\"Akuma-kun\" by Koorogi '73 & WILD CATS",
+    "video": "https://eudist.animemusicquiz.com/5u8iet.webm",
+    "mp3": null
+  },
+  {
+    "id": 2,
+    "anime": "Be-Bop-Highschool - Opening 1",
+    "name": "\"BE A GOOD BOY (I AIN'T GONNA BE GOOD)\" by COOLS",
+    "video": "https://eudist.animemusicquiz.com/as54di.webm",
+    "mp3": null
+  },
+  {
+    "id": 3,
+    "anime": "Be-Bop-Highschool - Opening 2",
+    "name": "\"BE A GOOD BOY\" by James Fujiki",
+    "video": "https://eudist.animemusicquiz.com/jv1ruw.webm",
+    "mp3": null
+  },
+  {
+    "id": 4,
+    "anime": "Chibi Maruko-chan - Opening 1",
+    "name": "\"Yume Ippai\" by Yumiko Seki",
+    "video": "https://eudist.animemusicquiz.com/0dhdsq.webm",
+    "mp3": null
+  },
+  {
+    "id": 5,
+    "anime": "Doraemon: Nobita to Animal Planet - Opening 1",
+    "name": "\"Doraemon no Uta\" by Satoko Yamano & Nobuyo Ooyama",
+    "video": "https://eudist.animemusicquiz.com/ltlv58.webm",
+    "mp3": null
+  },
+  {
+    "id": 6,
+    "anime": "Dragon Ball Z: Kono Yo de Ichiban Tsuyoi Yatsu - Opening 1",
+    "name": "\"CHA-LA HEAD-CHA-LA\" by Hironobu Kageyama",
+    "video": "https://eudist.animemusicquiz.com/r5o3zy.webm",
+    "mp3": null
+  },
+  {
+    "id": 7,
+    "anime": "Heisei Tensai Bakabon - Opening 1",
+    "name": "\"Tarirari Run Rock'n Roll\" by Tatsuo Kamon",
+    "video": "https://eudist.animemusicquiz.com/crmqf2.webm",
+    "mp3": null
+  },
+  {
+    "id": 8,
+    "anime": "Hidari no O'Clock!! - Opening 1",
+    "name": "\"Ride On Heart\" by Norimasa Yamanaka",
+    "video": "https://eudist.animemusicquiz.com/nu98yg.webm",
+    "mp3": null
+  },
+  {
+    "id": 9,
+    "anime": "Kyattou Ninden Teyandee - Opening 1",
+    "name": "\"Otto Dokkoi Nihon Bare\" by Reina Yazawa",
+    "video": "https://eudist.animemusicquiz.com/bv6zzb.webm",
+    "mp3": null
+  },
+  {
+    "id": 10,
+    "anime": "Mahoutsukai Sally - Opening 1",
+    "name": "\"Mahoutsukai Sally\" by Hiroko Asakawa",
+    "video": "https://eudist.animemusicquiz.com/2hn4ay.webm",
+    "mp3": null
+  },
+  {
+    "id": 11,
+    "anime": "Mashin Eiyuuden Wataru 2 - Opening 1",
+    "name": "\"Step by Step\" by Yumiko Takahashi",
+    "video": "https://eudist.animemusicquiz.com/s1rxby.webm",
+    "mp3": null
+  },
+  {
+    "id": 12,
+    "anime": "Mashin Eiyuuden Wataru 2 - Opening 2",
+    "name": "\"Fight!\" by Yumiko Takahashi",
+    "video": "https://eudist.animemusicquiz.com/hs9ne2.webm",
+    "mp3": null
+  },
+  {
+    "id": 13,
+    "anime": "Ojisan Kaizou Kouza - Opening 1",
+    "name": "\"Alps no Salaryman\" by SHINE'S",
+    "video": "https://eudist.animemusicquiz.com/j63198.webm",
+    "mp3": null
+  },
+  {
+    "id": 14,
+    "anime": "Super Real Mahjong: Miki Kasumi Shouko no Hajimemashite - Opening 1",
+    "name": "\"Mune Ippai Seiippai\" by Yumiko Shibata",
+    "video": "https://eudist.animemusicquiz.com/peyesq.webm",
+    "mp3": null
+  },
+  {
+    "id": 15,
+    "anime": "Tistou Midori no Oyayubi - Opening 1",
+    "name": "\"Shiawase no Mitsu no Tobira\" by Kenji Iizawa",
+    "video": "https://eudist.animemusicquiz.com/la40sw.webm",
+    "mp3": null
+  },
+  {
+    "id": 16,
+    "anime": "Watashi no Ashinaga Ojisan - Opening 1",
+    "name": "\"Growing Up\" by Mitsuko Horie",
+    "video": "https://eudist.animemusicquiz.com/sjy0c0.webm",
+    "mp3": null
+  },
+  {
+    "id": 17,
+    "anime": "Yuusha Exkaiser - Opening 1",
+    "name": "\"Gatherway\" by Hidemi Miura",
+    "video": "https://eudist.animemusicquiz.com/o4njvg.webm",
+    "mp3": null
+  }
 ]
